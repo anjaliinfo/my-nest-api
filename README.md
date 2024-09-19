@@ -163,7 +163,7 @@ Step 1: Set Up Your NestJS Project
           })
           export class ItemsModule {}
       
-      # Step 7: Import the Items Module in App Module
+   # Step 7: Import the Items Module in App Module
       
          // src/app.module.ts
           import { Module } from '@nestjs/common';
